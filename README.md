@@ -3,8 +3,6 @@ This is a data repository for sharing code and data with Dr.Ransom.
 
 # Replicate the result!
 
-# Replicate the result!
-
 Replicate Table
   1) Open "Data_0506.dta" file and "Do_0506.do" file
   2) follow "Do_0506.do" direction.
